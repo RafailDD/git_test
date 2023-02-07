@@ -2,3 +2,5 @@ Testing out git
 Adding lines
 
 this change is for git commit (without -m) testing purposes
+
+this change is for testing git setup on windows
